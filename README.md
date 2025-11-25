@@ -1,28 +1,35 @@
-# Saiyon-Travel Agency
+# 🌍 Saiyon-Travel Agency
 
-## Overview
-Saiyon-Travel Agency is a simple, visually appealing website that showcases travel destinations in Manipur. It is designed to help users explore places, view images, and get basic information about tourism spots.
+A simple, visually appealing **Travel Agency Website** built using **HTML & CSS**.  
+This project showcases beautiful travel destinations in **Manipur**, helping users explore places, view images, and get basic information about tourism spots.
 
-## Features
-- Responsive design for desktop and mobile.
-- Beautiful background images for travel destinations.
-- Sections for travel information and gallery.
-- Clean and modern layout with CSS styling.
+---
 
-## Technologies Used
-- HTML5
-- CSS3
-- Google Fonts
+## 📸 Preview
+![Saiyon Travel Agency Screenshot](https://github.com/Saiyonbasorokhaibam/15.Saiyon-Travel-Agency/blob/main/preview.png?raw=true)
+![Saiyon Travel Agency Screenshot](https://github.com/Saiyonbasorokhaibam/15.Saiyon-Travel-Agency/blob/main/preview2.png?raw=true)
 
-## How to Use
-1. Clone or download the project to your local machine.
-2. Open `index.html` in your browser.
-3. Explore the sections for different travel destinations in Manipur.
+---
 
-## Notes
-- This is a beginner-level project aimed at practicing HTML and CSS skills.
-- Images are sourced from free stock image sites like Unsplash and Pexels.
-- The project can be further enhanced by adding JavaScript for interactive features.
+## ✨ Features
+- 🌐 **Responsive design** for desktop and mobile  
+- 🏞️ **Beautiful background images** for travel destinations  
+- 📖 **Sections for travel information and gallery**  
+- 🎨 **Clean and modern layout** with CSS styling  
 
-## Author
-**Saiyonba Sorokhibam Meitei**
+---
+
+## 🛠️ Technologies Used
+- **HTML5** for structure  
+- **CSS3** for styling  
+- **Google Fonts** for typography  
+
+---
+
+## 🖊️ Author
+Created by **Saiyon** 
+
+✨ Front-End Developer passionate about UI/UX and modern web design.
+
+## 📜 License
+This project is open source and available under the **MIT License**.
